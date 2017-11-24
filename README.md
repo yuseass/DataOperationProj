@@ -1,0 +1,2 @@
+# DataOperationProj
+编写一个Java Web项目，实现从properties文件读取数据存储到数据库，并从数据库中读取数据，将结果显示在页面上
