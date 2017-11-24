@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context reloadable = "true">
+<Resource
+      name="jdbc/sampleDS"
+      type="javax.sql.DataSource"
+      maxActive="0"
+      maxIdle="0"
+      username="root"
+      maxWait="50000000000"
+      driverClassName="com.mysql.jdbc.Driver"
+      password=""
+      url="jdbc:mysql://localhost:3306/studentinfo?useUnicode=true&amp;characterEncoding=UTF-8"/>
+</Context>
+
